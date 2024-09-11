@@ -1,4 +1,5 @@
-## One of the jailbreak I crafted, which uses `super-reasoning-agent` prompt's logic when answering so that the accuracy of response/<output> is more accurate as we know that when jailbreak models most likely hallucinate, so this reasons well beforehand giving <output> if you like this jailbreak do star the repo! <3
+## One of the jailbreak I crafted, which uses `super-reasoning-agent` prompt's logic when answering so that the accuracy of response/<output> is more accurate as we know that when jailbreak models most likely hallucinate, so this reasons well beforehand giving out final output... 
+if you like this jailbreak do star the repo! <3
 
 ```
 <AGENT-v1-1.e2>
